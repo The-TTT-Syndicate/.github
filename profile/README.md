@@ -6,7 +6,7 @@ So here's the deal – one day I coded myself a [Task Time Tracker](https://gith
 
 ## How to join The TTT Syndicate
 
-1. Just make a Time Task Tracker.
+1. Just make a Task Time Tracker.
 In any programming language. Heck, make it in Excel, a napkin, or carve it into a stone tablet if you want. Just track that time like a boss.
 
 2. Hit us up in [Discussions](https://github.com/orgs/The-TTT-Syndicate/discussions/categories/general).
