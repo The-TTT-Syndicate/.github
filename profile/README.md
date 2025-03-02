@@ -2,7 +2,7 @@
 
 ## Yo yo yo
 
-So here's the deal – one day I coded myself a [Task Time Tracker](https://github.com/The-TTT-Syndicate/task-time-tracker-fsharp) just for personal use. But guess what? It sucked. So I made another one. Then my buddy was like, *"Man, I don’t know what to code..."* and I was like, *"Dude, just make a tracker!"* And he was like, *"Bet".* But will he actually do it? No clue... Just in case, I made this repo so he can drop his masterpiece here (if he ever finishes it). And hey, if **YOU** wanna join the squad, improve something, or drop your own spicy TTT, **welcome aboard!**
+So here's the deal – one day I coded myself a [Task Time Tracker](https://github.com/The-TTT-Syndicate/task-time-tracker-fsharp) just for personal use. But guess what? It sucked. So I made another one. Then my buddy was like, *"Man, I don’t know what to code..."* and I was like, *"Dude, just make a tracker!"* And he was like, *"Bet".* But will he actually do it? No clue... Just in case, I made this repo so he can drop his masterpiece here (if he ever finishes it). And hey, if you wanna join the squad, improve something, or drop your own spicy TTT, welcome aboard!
 
 ## How to join The TTT Syndicate
 
