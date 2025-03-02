@@ -1,7 +1,3 @@
-# The TTT Syndicate
-
-Task Time Tracker Syndicate - Hacking time, one task at a time
-
 ![TTT.jpg](TTT.jpg)
 
 ## Yo yo yo
